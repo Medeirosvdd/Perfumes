@@ -63,10 +63,10 @@ System.out.println(&quot;Olá, mundo!&quot;);
 ```
 ---
 ## �� Autor
-�� **Seu Nome**
-�� Email: seuemail@exemplo.com
-�� [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-�� [GitHub](https://github.com/seu-usuario/)
+�� **Murilo Mello de Medeiros**
+�� Email: medeirosmurilo589@gmail.com
+�� [LinkedIn](https://www.linkedin.com/in/murilo-medeiros-745917314/?originalSubdomain=br)
+�� [GitHub](https://github.com/Medeirosvdd)
 ---
 
 ## �� Objetivo do RepositórioEste repositório serve como um portfólio para demonstrar
