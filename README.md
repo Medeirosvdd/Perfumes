@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Perfumes
 &gt; Breve descrição do projeto. Exemplo: &quot;Lista de exercícios
 em Java desenvolvida durante as aulas do curso técnico,
 abordando conceitos Orientação a Objetos.&quot;
