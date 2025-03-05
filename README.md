@@ -1,7 +1,9 @@
 # Perfumes
-&gt; Breve descrição do projeto. Exemplo: &quot;Lista de exercícios
+&gt; Breve descrição do projeto.;Lista de exercícios
 em Java desenvolvida durante as aulas do curso técnico,
-abordando conceitos Orientação a Objetos.&quot;
+abordando conceitos Orientação a Objetos.
+Este projeto é um sistema para cadastro e gerenciamento de perfumes. Permite adicionar, editar, remover, listar, buscar, contar e ordenar perfumes, com uma interface gráfica simples em Java usando Swing.
+
 ## �� Sobre o Projeto
 Este repositório contém exercícios resolvidos em Java,
 focando em conceitos essenciais da linguagem, como:
